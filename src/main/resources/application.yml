@@ -1,0 +1,5 @@
+spring:
+    application:
+        name: AirplaneAdminServer
+server:
+    port: 1111
